@@ -1,5 +1,5 @@
 // foo.c
-#include "bar.h"
+#include "foo.h"
 
 int foo(int b) {
   if (b > 2)
